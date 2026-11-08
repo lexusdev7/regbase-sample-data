@@ -1,0 +1,364 @@
+{
+  "source_file": "diff_20261106.csv",
+  "total_rows": 2617,
+  "accepted_rows": 2617,
+  "rejected_rows": 0,
+  "rejected_reasons": {},
+  "by_change_class": {
+    "new": 1404,
+    "changed": 895,
+    "closed": 298,
+    "revival": 20,
+    "other": 0
+  },
+  "by_process_code": {
+    "01": 1404,
+    "11": 130,
+    "12": 705,
+    "21": 298,
+    "22": 20,
+    "71": 60
+  },
+  "by_prefecture": [
+    {
+      "code": "13",
+      "name": "東京都",
+      "count": 736
+    },
+    {
+      "code": "27",
+      "name": "大阪府",
+      "count": 253
+    },
+    {
+      "code": "14",
+      "name": "神奈川県",
+      "count": 164
+    },
+    {
+      "code": "23",
+      "name": "愛知県",
+      "count": 150
+    },
+    {
+      "code": "11",
+      "name": "埼玉県",
+      "count": 125
+    },
+    {
+      "code": "28",
+      "name": "兵庫県",
+      "count": 103
+    },
+    {
+      "code": "01",
+      "name": "北海道",
+      "count": 95
+    },
+    {
+      "code": "12",
+      "name": "千葉県",
+      "count": 79
+    },
+    {
+      "code": "22",
+      "name": "静岡県",
+      "count": 73
+    },
+    {
+      "code": "40",
+      "name": "福岡県",
+      "count": 72
+    },
+    {
+      "code": "26",
+      "name": "京都府",
+      "count": 60
+    },
+    {
+      "code": "34",
+      "name": "広島県",
+      "count": 50
+    },
+    {
+      "code": "08",
+      "name": "茨城県",
+      "count": 42
+    },
+    {
+      "code": "09",
+      "name": "栃木県",
+      "count": 40
+    },
+    {
+      "code": "33",
+      "name": "岡山県",
+      "count": 39
+    },
+    {
+      "code": "43",
+      "name": "熊本県",
+      "count": 38
+    },
+    {
+      "code": "10",
+      "name": "群馬県",
+      "count": 32
+    },
+    {
+      "code": "07",
+      "name": "福島県",
+      "count": 31
+    },
+    {
+      "code": "21",
+      "name": "岐阜県",
+      "count": 26
+    },
+    {
+      "code": "02",
+      "name": "青森県",
+      "count": 25
+    },
+    {
+      "code": "46",
+      "name": "鹿児島県",
+      "count": 25
+    },
+    {
+      "code": "20",
+      "name": "長野県",
+      "count": 23
+    },
+    {
+      "code": "29",
+      "name": "奈良県",
+      "count": 23
+    },
+    {
+      "code": "15",
+      "name": "新潟県",
+      "count": 21
+    },
+    {
+      "code": "16",
+      "name": "富山県",
+      "count": 21
+    },
+    {
+      "code": "17",
+      "name": "石川県",
+      "count": 20
+    },
+    {
+      "code": "47",
+      "name": "沖縄県",
+      "count": 19
+    },
+    {
+      "code": "45",
+      "name": "宮崎県",
+      "count": 18
+    },
+    {
+      "code": "37",
+      "name": "香川県",
+      "count": 17
+    },
+    {
+      "code": "30",
+      "name": "和歌山県",
+      "count": 15
+    },
+    {
+      "code": "38",
+      "name": "愛媛県",
+      "count": 15
+    },
+    {
+      "code": "04",
+      "name": "宮城県",
+      "count": 14
+    },
+    {
+      "code": "24",
+      "name": "三重県",
+      "count": 14
+    },
+    {
+      "code": "25",
+      "name": "滋賀県",
+      "count": 14
+    },
+    {
+      "code": "31",
+      "name": "鳥取県",
+      "count": 14
+    },
+    {
+      "code": "35",
+      "name": "山口県",
+      "count": 14
+    },
+    {
+      "code": "42",
+      "name": "長崎県",
+      "count": 14
+    },
+    {
+      "code": "03",
+      "name": "岩手県",
+      "count": 11
+    },
+    {
+      "code": "19",
+      "name": "山梨県",
+      "count": 11
+    },
+    {
+      "code": "32",
+      "name": "島根県",
+      "count": 10
+    },
+    {
+      "code": "05",
+      "name": "秋田県",
+      "count": 9
+    },
+    {
+      "code": "18",
+      "name": "福井県",
+      "count": 8
+    },
+    {
+      "code": "44",
+      "name": "大分県",
+      "count": 8
+    },
+    {
+      "code": "39",
+      "name": "高知県",
+      "count": 7
+    },
+    {
+      "code": "41",
+      "name": "佐賀県",
+      "count": 7
+    },
+    {
+      "code": "",
+      "name": "",
+      "count": 4
+    },
+    {
+      "code": "06",
+      "name": "山形県",
+      "count": 4
+    },
+    {
+      "code": "36",
+      "name": "徳島県",
+      "count": 4
+    }
+  ],
+  "outside_japan_rows": 5,
+  "by_entity_type": {
+    "301": 1703,
+    "305": 367,
+    "302": 344,
+    "399": 193,
+    "401": 5,
+    "304": 4,
+    "303": 1
+  },
+  "top_municipalities_new": [
+    {
+      "municipality": "東京都港区",
+      "count": 65
+    },
+    {
+      "municipality": "東京都中央区",
+      "count": 40
+    },
+    {
+      "municipality": "東京都千代田区",
+      "count": 32
+    },
+    {
+      "municipality": "東京都大田区",
+      "count": 31
+    },
+    {
+      "municipality": "東京都渋谷区",
+      "count": 22
+    },
+    {
+      "municipality": "大阪府大阪市中央区",
+      "count": 15
+    },
+    {
+      "municipality": "大阪府大阪市北区",
+      "count": 15
+    },
+    {
+      "municipality": "東京都世田谷区",
+      "count": 15
+    },
+    {
+      "municipality": "埼玉県川口市",
+      "count": 13
+    },
+    {
+      "municipality": "東京都新宿区",
+      "count": 12
+    },
+    {
+      "municipality": "大阪府大阪市西区",
+      "count": 11
+    },
+    {
+      "municipality": "東京都板橋区",
+      "count": 11
+    },
+    {
+      "municipality": "東京都江東区",
+      "count": 11
+    },
+    {
+      "municipality": "東京都台東区",
+      "count": 10
+    },
+    {
+      "municipality": "東京都杉並区",
+      "count": 10
+    },
+    {
+      "municipality": "東京都江戸川区",
+      "count": 10
+    },
+    {
+      "municipality": "兵庫県姫路市",
+      "count": 9
+    },
+    {
+      "municipality": "東京都中野区",
+      "count": 9
+    },
+    {
+      "municipality": "東京都足立区",
+      "count": 9
+    },
+    {
+      "municipality": "神奈川県横浜市港北区",
+      "count": 8
+    }
+  ],
+  "non_display_rows": 3,
+  "non_display_by_class": {
+    "new": 2,
+    "changed": 1,
+    "closed": 0,
+    "other": 0,
+    "revival": 0
+  }
+}
